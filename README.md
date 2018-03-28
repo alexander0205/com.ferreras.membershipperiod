@@ -1,8 +1,8 @@
 # com.ferreras.membershipperiod
 
-![Screenshot](/images/screenshot.png)
+![Screenshot](screenshot.png)
 
-(*FIXME: In one or two paragraphs, describe what the extension does and why one would download it. *)
+(*When you renew a memebership this ext follow all renew date of members  in /civicrm/contact/view?reset=*)
 
 The extension is licensed under [AGPL-3.0](LICENSE.txt).
 
@@ -22,7 +22,7 @@ install it with the command-line tool [cv](https://github.com/civicrm/cv).
 
 ```bash
 cd <extension-dir>
-cv dl com.ferreras.membershipperiod@https://github.com/FIXME/com.ferreras.membershipperiod/archive/master.zip
+cv dl com.ferreras.membershipperiod@https://github.com/alexander0205/com.ferreras.membershipperiod/archive/master.zip
 ```
 
 ## Installation (CLI, Git)
@@ -31,7 +31,7 @@ Sysadmins and developers may clone the [Git](https://en.wikipedia.org/wiki/Git) 
 install it with the command-line tool [cv](https://github.com/civicrm/cv).
 
 ```bash
-git clone https://github.com/FIXME/com.ferreras.membershipperiod.git
+git clone https://github.com/alexander0205/com.ferreras.membershipperiod.git
 cv en membershipperiod
 ```
 
