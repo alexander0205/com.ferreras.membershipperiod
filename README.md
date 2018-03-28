@@ -1,6 +1,6 @@
 # com.ferreras.membershipperiod
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshott.png)
 
 (*When you renew a memebership this ext follow all renew date of members  in /civicrm/contact/view?reset=*)
 
