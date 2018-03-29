@@ -1,7 +1,8 @@
 <?php
 
 require_once 'membershipperiod.civix.php';
-require_once 'CRM\Membershipperiod\Membershipperiod.php';
+require_once 'CRM/Membershipperiod/Membershipperiod.php';
+
 use CRM_Membershipperiod_ExtensionUtil as E;
 
 
